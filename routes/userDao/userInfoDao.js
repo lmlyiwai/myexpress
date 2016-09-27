@@ -5,7 +5,7 @@ userInfoDao.getUserInfo = function(wid, cb) {
 	pool.getConnection(function(err, connection) {
 		if (err)
 			cb(err);
-		connection.query(getUserFriendsSql, [wid], function(err, result) {
+		connection.query(getUserInfo, [wid], function(err, result) {
 			// return object back to pool
 			connection.release();
 			cb(err, result);
@@ -17,7 +17,7 @@ userInfoDao.insertUserInfo = function(wid, tel,cb) {
 	pool.getConnection(function(err, connection) {
 		if (err)
 			cb(err);
-		connection.query(insertUserFriendsSql, [wid,tel], function(err, result) {
+		connection.query(insertUserInfo, [wid,tel], function(err, result) {
 			// return object back to pool
 			connection.release();
 			cb(err, result);

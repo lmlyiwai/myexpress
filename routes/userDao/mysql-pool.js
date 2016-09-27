@@ -2,6 +2,6 @@ var mysql = require('mysql');
 var pool = mysql.createPool({
 	user:"root",
 	database:"social",
-	password:"a6447209"
+	password:"Lml,,..03111376"
 });
 module.exports = pool;
