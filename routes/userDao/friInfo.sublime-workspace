@@ -1,0 +1,649 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"i"
+			],
+			[
+				"my",
+				"mysqlpool"
+			],
+			[
+				"con",
+				"connection"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"t",
+				"temp"
+			],
+			[
+				"buf",
+				"bufp1"
+			],
+			[
+				"bu",
+				"bufp0"
+			],
+			[
+				"pso",
+				"postsDate"
+			],
+			[
+				"te",
+				"template	Tag"
+			],
+			[
+				"tm",
+				"temp1"
+			],
+			[
+				"str",
+				"str2"
+			],
+			[
+				"da",
+				"dateEqual"
+			],
+			[
+				"st",
+				"str2"
+			],
+			[
+				"dif",
+				"diff2"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"el",
+				"ele"
+			],
+			[
+				"ele",
+				"eleChange"
+			],
+			[
+				"ch",
+				"eleChange"
+			],
+			[
+				"tab",
+				"table1Data"
+			],
+			[
+				"diff",
+				"diff1"
+			],
+			[
+				"c",
+				"changeFormat"
+			],
+			[
+				"is",
+				"isEqual"
+			],
+			[
+				"a",
+				"array2"
+			],
+			[
+				"arr",
+				"array1"
+			],
+			[
+				"table",
+				"table1Data"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"lo",
+				"localInfo"
+			],
+			[
+				"fin",
+				"findById"
+			],
+			[
+				"un",
+				"underscore"
+			],
+			[
+				"di",
+				"diff"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"table1",
+				"table1Data"
+			],
+			[
+				"ta",
+				"tablename"
+			],
+			[
+				"Sh",
+				"SheetNames"
+			],
+			[
+				"w",
+				"Workbook"
+			],
+			[
+				"js",
+				"jshint"
+			],
+			[
+				"e",
+				"express"
+			],
+			[
+				"shad",
+				"text-shadow"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"met",
+				"meta	Tag"
+			],
+			[
+				"sen",
+				"sendFile"
+			],
+			[
+				"se",
+				"setHeader"
+			],
+			[
+				"H",
+				"headers"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"pt",
+				"path"
+			],
+			[
+				"path",
+				"pathname"
+			],
+			[
+				"pa",
+				"pathname"
+			],
+			[
+				"ac",
+				"accesskey	Attr"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"ca",
+				"caption	Tag"
+			],
+			[
+				"clo",
+				"color"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"n",
+				"num"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"node",
+				"node37"
+			],
+			[
+				"get",
+				"getMin"
+			],
+			[
+				"b",
+				"BST"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"d",
+				"dataStore"
+			],
+			[
+				"ha",
+				"hashtable"
+			],
+			[
+				"hash",
+				"hashTable"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"dt",
+				"details	Tag"
+			],
+			[
+				"bas",
+				"base	Tag"
+			],
+			[
+				"q",
+				"qInt"
+			],
+			[
+				"l",
+				"list"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"new",
+				"newNode"
+			],
+			[
+				"nee",
+				"newNode"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"us",
+				"usr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Sort Lines"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 293.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/yiwai/download/lml/work/main.js",
+		"/home/yiwai/download/lml/work/wechat4u/example/README.md",
+		"/home/yiwai/download/lml/work/wechat4u/index.js",
+		"/home/yiwai/download/lml/work/wechat4u/example/views/layout.jade",
+		"/home/yiwai/download/lml/work/wechat4u/main.js",
+		"/home/yiwai/download/lml/work/wechat4u/example/app.js",
+		"/home/yiwai/download/lml/work/wechat4u/example/lib/wxbot.js",
+		"/home/yiwai/download/lml/work/wechat4u/example/routes/api.js",
+		"/home/yiwai/download/lml/work/wechat4u/example/public/javascripts/build/qrcode.min.js",
+		"/home/yiwai/download/lml/work/wechat4u/example/public/javascripts/build/app.js",
+		"/home/yiwai/download/lml/work/social/app.js",
+		"/home/yiwai/download/lml/work/wechat4u/example/public/javascripts/src/main.js",
+		"/home/yiwai/download/lml/work/wechat4u/.babelrc",
+		"/home/yiwai/download/lml/work/wechat4u/src/wechat.js",
+		"/home/yiwai/download/lml/work/wechat4u/lib/wechat.js.map",
+		"/home/yiwai/download/lml/work/wechat4u/lib/wechat.js",
+		"/home/yiwai/download/lml/work/mian.js",
+		"/home/yiwai/download/lml/work/meteor/server/main.js",
+		"/home/yiwai/download/lml/work/meteor/client/main.js",
+		"/home/yiwai/download/lml/work/meteor/client/main.",
+		"/home/yiwai/download/lml/nodejs/my_app/server/post.js",
+		"/home/yiwai/download/lml/nodejs/my_app/server/obj.js",
+		"/home/yiwai/download/lml/c/size.c",
+		"/home/yiwai/download/lml/nodejs/my_app/collections/post.js",
+		"/home/yiwai/download/lml/nodejs/my_app/client/templates/posts/post_list.js",
+		"/home/yiwai/download/lml/nodejs/my_app/server/mysql-pool.js",
+		"/home/yiwai/download/lml/work/meteor/client/main.html",
+		"/home/yiwai/download/lml/nodejs/my_app/server/main.js",
+		"/home/yiwai/download/lml/work/meteor/server/mysql-pool.js",
+		"/home/yiwai/download/lml/nodejs/my_app/lib/route.js",
+		"/home/yiwai/download/lml/c/fork.c",
+		"/home/yiwai/download/lml/nodejs/my_app/client/main.js",
+		"/home/yiwai/download/lml/c/wait.c",
+		"/home/yiwai/download/lml/c/defined.c",
+		"/etc/hostname",
+		"/usr/include/linux/types.h",
+		"/usr/include/x86_64-linux-gnu/sys/types.h",
+		"/usr/include/x86_64-linux-gnu/sys/socket",
+		"/usr/include/x86_64-linux-gnu/sys/syscall.h",
+		"/usr/include/types.h",
+		"/usr/include/stdio.h",
+		"/usr/include/socket.h",
+		"/usr/include/winsock2.h",
+		"/usr/include/syscall.h",
+		"/home/yiwai/download/lml/nodejs/my_app/client/templates/posts/posts_list.html",
+		"/home/yiwai/download/lml/nodejs/my_app/client/templates/posts/post_list.html",
+		"/home/yiwai/download/lml/nodejs/wechat4u/example/app.js",
+		"/home/yiwai/download/lml/nodejs/node_modules/wechat4u/package.json",
+		"/home/yiwai/download/lml/nodejs/YihuorenServer/routes/userDao/mysql-pool.js",
+		"/home/yiwai/download/lml/nodejs/my_app/package.json",
+		"/home/yiwai/download/lml/nodejs/my_app/server/mysql.js",
+		"/home/yiwai/download/lml/nodejs/YihuorenServer/routes/lib/jwtauth.js",
+		"/home/yiwai/download/lml/nodejs/wechat4u/example/public/javascripts/build/app.js.map",
+		"/home/yiwai/download/lml/nodejs/wechat4u/example/routes/api.js",
+		"/home/yiwai/download/lml/nodejs/wechat4u/example/lib/wxbot.js",
+		"/home/yiwai/download/lml/nodejs/wechat4u/index.js",
+		"/home/yiwai/download/lml/nodejs/wechat4u/src/wechat.js",
+		"/home/yiwai/download/lml/nodejs/YihuorenServer/routes/admin/admin.js",
+		"/home/yiwai/download/lml/nodejs/my_app/node_modules/meteor-node-stubs/package.json",
+		"/home/yiwai/download/lml/nodejs/wechat4u/example/views/layout.jade",
+		"/home/yiwai/download/lml/nodejs/wechat4u/example/public/javascripts/build/app.js",
+		"/home/yiwai/download/lml/nodejs/wechat4u/example/README.md",
+		"/home/yiwai/download/lml/nodejs/my_app/client/templates/posts/post_item.html",
+		"/home/yiwai/download/lml/c/code.c",
+		"/home/yiwai/download/lml/c/main.c",
+		"/home/yiwai/download/lml/c/swap.c",
+		"/home/yiwai/download/lml/nodejs/my_app/client/main.html",
+		"/home/yiwai/download/lml/c/main.o",
+		"/usr/lib/libc.a",
+		"/usr/lib/libc.o",
+		"/home/yiwai/download/lml/c/code.o",
+		"/home/yiwai/download/lml/c/code.s",
+		"/home/yiwai/download/lml/nodejs/my_app/colletions/post.js",
+		"/home/yiwai/download/lml/nodejs/my_app/main.html",
+		"/home/yiwai/download/lml/nodejs/my_app/client/main.css",
+		"/home/yiwai/download/lml/nodejs/my_app/.meteor/packages",
+		"/home/yiwai/download/lml/nodejs/YihuorenServer/routes/qiniu/config.js",
+		"/home/yiwai/download/lml/nodejs/YihuorenServer/routes/qiniu/qiniuToken.js",
+		"/home/yiwai/download/lml/nodejs/think/package.json",
+		"/home/yiwai/download/lml/nodejs/test/assert",
+		"/home/yiwai/download/lml/nodejs/YihuorenServer/app.js",
+		"/home/yiwai/download/lml/nodejs/test/pinyin.html",
+		"/home/yiwai/download/lml/nodejs/test/httpS",
+		"/home/yiwai/download/lml/nodejs/test/nodetxt",
+		"/home/yiwai/download/lml/nodejs/test/service",
+		"/home/yiwai/download/lml/nodejs/YihuorenServer/routes/admin/ringRegister.js",
+		"/home/yiwai/download/lml/nodejs/lmlexpress/lmlsss",
+		"/home/yiwai/download/lml/nodejs/test/work/findTest.js",
+		"/home/yiwai/download/lml/nodejs/test/ppt.js",
+		"/home/yiwai/download/lml/nodejs/test/work/utilTest.js",
+		"/home/yiwai/download/lml/nodejs/lmlexpress/creeper.js",
+		"/home/yiwai/download/lml/nodejs/test/work/find.js",
+		"/home/yiwai/download/lml/nodejs/lmlexpress/lml/package_control/readme.md",
+		"/home/yiwai/download/lml/nodejs/test/work/name1.txt",
+		"/home/yiwai/download/lml/nodejs/test/work/2.xlsx",
+		"/home/yiwai/download/lml/nodejs/test/work/name2.txt",
+		"/home/yiwai/download/lml/nodejs/test/work/find.txt",
+		"/home/yiwai/download/lml/nodejs/lmlexpress/bin/www",
+		"/home/yiwai/download/lml/nodejs/lmlexpress/routes/mon.js",
+		"/home/yiwai/download/lml/nodejs/lmlexpress/b.txt",
+		"/home/yiwai/download/lml/nodejs/lmlexpress/Gruntfile.js",
+		"/home/yiwai/download/lml/nodejs/lmlexpress/app.js",
+		"/home/yiwai/download/lml/nodejs/lmlexpress/test.js",
+		"/home/yiwai/download/lml/nodejs/lmlexpress/test1.js",
+		"/home/yiwai/download/lml/nodejs/YihuorenServer/routes/myShop/getSpecModel.js",
+		"/home/yiwai/download/lml/nodejs/YihuorenServer/routes/myShop/getShop.js",
+		"/home/yiwai/download/lml/nodejs/YihuorenServer/routes/myShop/getS",
+		"/home/yiwai/download/lml/nodejs/lmlexpress/routes/index.js",
+		"/home/yiwai/download/lml/nodejs/lmlexpress/routes/mongoose.js",
+		"/home/yiwai/download/lml/nodejs/lmlexpress/routes/students.js",
+		"/home/yiwai/Downloads/apache-abdera-1.1.3-src/README",
+		"/home/yiwai/download/lml/nodejs/react-demos/demo04/index.html",
+		"/home/yiwai/download/lml/nodejs/lmlexpress/testjs",
+		"/home/yiwai/download/lml/nodejs/YihuorenServer/routes/index.js",
+		"/home/yiwai/download/node-v4.4.5-linux-x64/include/node/v8.h",
+		"/home/yiwai/download/node-v4.4.5-linux-x64/include/node/node_buffer.h",
+		"/home/yiwai/download/lml/nodejs/test/linknode",
+		"/home/yiwai/download/lml/nodejs/lmlexpress/log/log",
+		"/home/yiwai/download/lml/nodejs/lmlexpress/output.js",
+		"/home/yiwai/download/lml/nodejs/lmlexpress/test.",
+		"/etc/hosts",
+		"/ect/hosts",
+		"/home/yiwai/download/lml/nodejs/YihuorenServer/routes/userDao/mongoodbDao.js",
+		"/home/yiwai/download/lml/nodejs/lmlexpress/views/layout.jade",
+		"/home/yiwai/download/lml/nodejs/test/web-development-with-node-and-express/meadowlark.js",
+		"/home/yiwai/download/lml/nodejs/test/web-development-with-node-and-express/models/meadowlark.js",
+		"/home/yiwai/download/lml/nodejs/react-demos/demo01/index.html",
+		"/home/yiwai/download/lml/nodejs/test/web-development-with-node-and-express/public/js/main.js"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"length",
+			"]\n",
+			"')())\n",
+			"th",
+			"span",
+			"num",
+			";\n",
+			"){\n",
+			"))\n",
+			"console.log(bubbing(num))\nconsole.log(num)",
+			"let"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"td",
+			"center",
+			"var"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 44.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "friInfo.sublime-project",
+	"replace":
+	{
+		"height": 84.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main-0.1",
+				"~/Downloads/main-0.1/main-0.1.patch"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
